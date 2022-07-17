@@ -1,4 +1,5 @@
 #!/bin/bash
+apt install jq -y;
 mkdir pm
 cd pm
 echo "PocketMine-MP.phar 설치중"
